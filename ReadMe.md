@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently studying computer science at UNC, FAMAF. <br>Transfem, 18 years old, I want to know everything.<br> Wandering how to change the educational system. 
+Currently studying computer science at UNC, FAMAF. <br>Transfem, 18 years old, I want to know everything.<br> 
 
 
 ## 🌐 Socials:

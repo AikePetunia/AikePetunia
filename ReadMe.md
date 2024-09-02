@@ -15,3 +15,5 @@ Currently studying computer science at UNC, FAMAF. <br>Transfem, 18 years old, I
 ---
 [![](https://visitcount.itsvg.in/api?id=AikePetunia&icon=5&color=5)](https://visitcount.itsvg.in)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1083501646807576576)](https://discord.com/users/1083501646807576576)
+

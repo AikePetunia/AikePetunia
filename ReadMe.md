@@ -3,7 +3,7 @@
   
   <pre>
       🎓 Computer Science @FAMAF, unc.
-      🎮 Games • Music • Code  
+      🎮 Games • Music • Code • Hardware
       📚 Eager to learn
       🏳️‍⚧️ Trans fem.
       🌟 She / Her 

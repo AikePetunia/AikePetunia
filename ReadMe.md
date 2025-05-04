@@ -14,7 +14,7 @@
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aike.milanesa)
   [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Aike6l)
   [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AikePetunia)
-  [![MyPage](https://img.shields.io/badge/Website-%23black.svg?style=for-the-badge&logo=eye&logoColor=white)](https://aikepetunia.github.io/AikePetuniaa/)
+  [![MyPage](https://img.shields.io/badge/Website-%23black.svg?style=for-the-badge&logo=eye&logoColor=white)](https://venuss.me)
 
 
   <br><br>

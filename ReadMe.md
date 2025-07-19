@@ -36,5 +36,4 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AikePetunia&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
   <br>
-  [![](https://visitcount.itsvg.in/api?id=AikePetunia&icon=5&color=5)](https://visitcount.itsvg.in)
 </div>

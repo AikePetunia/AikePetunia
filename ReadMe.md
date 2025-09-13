@@ -1,39 +1,57 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi!+I'm+Aike;" width="70%" />
-  
-  <pre>
-      🎓 Computer Science @FAMAF, unc.
-      🎮 Games • Music • Code • Hardware
+<div align="center" style="display: flex; flex-flow: column wrap;">
+	<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi!+I'm+Aike;" align="center"/>
+	<a  href="https://wakatime.com/@54678065-0087-4979-9e08-064a298c654" >
+	 	<img src="https://wakatime.com/badge/user/54678065-0087-4979-9e08-064a298c654a.svg" alt="Total time coded since Oct 22 2023" />
+	</a>
+	<br>
+
+      🎓 Computer Science @FAMAF, UNC.
+      🎮 Games • Math • Code • Hardware
       📚 Eager to learn
-      🏳️‍⚧️ Trans fem.
-      🌟 She / Her 
-  </pre>
-  <br><br>
+      🏳️‍⚧️
+      🌟 She / Her, 19yo
 
-  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aike.petunia)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aike.milanesa)
-  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Aike6l)
-  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AikePetunia)
-  [![MyPage](https://img.shields.io/badge/Website-%23black.svg?style=for-the-badge&logo=eye&logoColor=white)](https://venuss.me)
-
-
-  <br><br>
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
-  ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-  <br><br>
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AikePetunia&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AikePetunia&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-  <br>
 </div>
+<br>
+<div align="center" class="skills" style="display: flex; flex-flow: column wrap">
+	<details close>
+	<summary>Skills</summary><br>
+		<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,haskell,c,python,nodejs" /> 
+		<img src="https://developer.playcanvas.com/img/playcanvas.png" alt="PlayCanvas" width="48" height="48"/>
+	<details close>
+	<summary>Frameworks & Other stuff</summary>
+		<br>
+		<img src="https://skillicons.dev/icons?i=git,github,obsidian,debian,vscode,pycharm,sklearn,md,linux" /> 
+		<img src="https://ms-playwright.gallerycdn.vsassets.io/extensions/ms-playwright/playwright/1.1.15/1749049892255/Microsoft.VisualStudio.Services.Icons.Default" alt="playwright" width="48" height="48"/>
+		<img src="https://skillicons.dev/icons?i=instagram,gmail,discord,twitter" /> 
+	</details>
+	<details close> 
+		<summary> skills that i want to learn</summary>
+		<br>
+		<img src="https://skillicons.dev/icons?i=figma,vue,postgres,java,maven,spring,sass,jenkins,aws,cloudflare,docker,unity"/><br>
+	</details>
+</div>
+<br>
+<div align="center">
+  <a align="center" href="https://discord.com/users/433637449307127822">
+    <img align="center" src="https://lanyard-profile-readme.vercel.app/api/433637449307127822?theme=dark&animated=true&hideDiscrim=true&borderRadius=30px&hideStatus=true"
+      </a>
+</div>  
+<br>
+<br>
+
+<div align="center" class="todo" style="display: flex; flex-flow: column">
+<details close>
+<br>
+<table align="center">
+	<tr>
+		<td width="1200px">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=AikePetunia&theme=shadow_red&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" draggable="false">
+		</td>
+		<td width="1200px">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AikePetunia&theme=shadow_red&layout=compact&bg_color=0D1117&hide_border=true" draggable="false">
+		</td>
+	</tr>
+</table>
+</details>
+

@@ -18,6 +18,7 @@
 	<summary>Skills</summary><br>
 		<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,haskell,c,python,nodejs" /> 
 		<img src="https://developer.playcanvas.com/img/playcanvas.png" alt="PlayCanvas" width="48" height="48"/>
+		<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9bsC17sEuS2OqQ2NmsHDxP8jB3E8BGHjH6A&s" alt="Hostinger" width="48" height="48"/>
 	<details close>
 	<summary>Frameworks & Other stuff</summary>
 		<br>

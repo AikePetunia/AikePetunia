@@ -24,10 +24,11 @@
 		<br>
 		<img src="https://skillicons.dev/icons?i=git,github,obsidian,debian,vscode,pycharm,sklearn,md,linux" /> 
 		<img src="https://ms-playwright.gallerycdn.vsassets.io/extensions/ms-playwright/playwright/1.1.15/1749049892255/Microsoft.VisualStudio.Services.Icons.Default" alt="playwright" width="48" height="48"/>
+		<img src="https://avatars.githubusercontent.com/u/5192682?s=280&v=4" alt="Xournalpp" width="48" height="48"/>
 		<img src="https://skillicons.dev/icons?i=instagram,gmail,discord,twitter" /> 
 	</details>
 	<details close> 
-		<summary> skills that i want to learn</summary>
+		<summary> skills that I want to learn</summary>
 		<br>
 		<img src="https://skillicons.dev/icons?i=figma,vue,postgres,java,maven,spring,sass,jenkins,aws,cloudflare,docker,unity"/><br>
 	</details>

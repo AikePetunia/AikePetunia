@@ -1,5 +1,4 @@
 <div align="center" style="display: flex; flex-flow: column wrap;">
-	<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi!+I'm+Aike;" align="center"/>
 	<a href="https://wakatime.com/@54678065-0087-4979-9e08-064a298c654" >
 	 	<img src="https://wakatime.com/badge/user/54678065-0087-4979-9e08-064a298c654a.svg" alt="Total time coded since Oct 22 2023" />
 	</a>
